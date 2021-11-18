@@ -43,3 +43,12 @@ I have a structured view of things, so I realized that programming is my element
 + English - B1
 + German - basic
 ***
+**Code example:**
+An array with numbers is given. Leave in it only those numbers whose product by their ordinal number is less than 30:
+```
+let arr = [1, 2, 3, 4, 11, 13, 40];
+let result = arr.filter(function(elem, index) {
+    return (elem * index) < 30;
+})
+console.log(result);
+```
