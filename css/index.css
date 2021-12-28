@@ -32,6 +32,7 @@ body {
     min-width: 320px;
     /* width: 100%; */
     margin: 0 auto;
+    padding: 0 20px;
 }
 section {
     margin-bottom: 45px;
@@ -45,6 +46,7 @@ section {
     margin: 0 auto;
     display: flex;
     justify-content: center;
+    padding: 0 20px;
     color: #F8EFE4;
 }
 .nav {
