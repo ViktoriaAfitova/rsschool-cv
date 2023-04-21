@@ -1,4 +1,4 @@
-https://AfitovaViktoriya.github.io/rsschool-cv/ 
+https://viktoriaafitova.github.io/rsschool-cv/ 
 
-https://AfitovaViktoriya.github.io/rsschool-cv/cv
+https://viktoriaafitova.github.io/rsschool-cv/cv
 
